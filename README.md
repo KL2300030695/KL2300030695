@@ -38,9 +38,6 @@
 
 ---
 
-
----
-
 ## Visitor Count
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KL2300030695&style=flat-square" alt="Profile Views" />
