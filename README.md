@@ -1,4 +1,4 @@
-# Hi, I'm Subhash Vadaparthi 👋
+# Hi, I'm Subhash Vadaparthi👋
 
 ## About Me
 - 🔭 I’m currently working on cool projects
