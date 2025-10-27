@@ -12,17 +12,13 @@
 <h1 align="center">👨‍💻 SUBHASH VADAPARTHI</h1>
 <h3 align="center">Aspiring Full Stack Developer | AI & ML Enthusiast | Problem Solver</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SubhashVadaparthi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 # Hi, I'm Subhash Vadaparthi👋
 
 ## About Me
-- 🔭 I’m currently working on cool projects
-- 🌱 I’m learning MACHINE LEARNING
-- 👯 I’m looking to collaborate on exciting projects
-- 📩 How to reach me: [LinkedIn](https://www.linkedin.com/in/vadaparthisubhash/) | [LeetCode](https://leetcode.com/KL2300030695/) | [CodeChef](https://www.codechef.com/users/klu2300030695) | [HackerRank](https://www.hackerrank.com/profile/h2300030695) | [GeeksforGeeks](https://www.geeksforgeeks.org/user/user_xsh9ho5yu0u/) | Email: vadaparthisubhash@gmail.com
+- 🔭 I’m currently working on cool projects  
+- 🌱 I’m learning **Machine Learning**  
+- 👯 I’m looking to collaborate on exciting projects  
+- 📩 How to reach me: [LinkedIn](https://www.linkedin.com/in/vadaparthisubhash/) | [LeetCode](https://leetcode.com/KL2300030695/) | [CodeChef](https://www.codechef.com/users/klu2300030695) | [HackerRank](https://www.hackerrank.com/profile/h2300030695) | [GeeksforGeeks](https://www.geeksforgeeks.org/user/user_xsh9ho5yu0u/) | Email: vadaparthisubhash@gmail.com  
 
 ---
 
@@ -47,24 +43,23 @@
   </tr>
 </table>
 
-
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,c,git,github" alt="Tech Stack" />
 </p>
 
 ---
 
-## Visitor Count
+## 👀 Visitor Count
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KL2300030695&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=KL2300030695&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 ---
 
-## Let's Connect
+## 🌐 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/vadaparthisubhash/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
