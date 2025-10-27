@@ -1,9 +1,9 @@
 <!-- Profile Header -->
 <h1 align="center">👨‍💻 SUBHASH VADAPARTHI</h1>
 <h3 align="center">Aspiring Full Stack Developer | AI & ML Enthusiast | Problem Solver</h3>
-
+<!-- Typing SVG Banner -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SubhashVadaparthi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Subhash+Vadaparthi;Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 # Hi, I'm Subhash Vadaparthi👋
