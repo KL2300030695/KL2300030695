@@ -43,6 +43,9 @@
   <img src="https://komarev.com/ghpvc/?username=KL2300030695&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## 🌐 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/vadaparthisubhash/">LinkedIn</a> |
