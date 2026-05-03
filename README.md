@@ -24,7 +24,7 @@
 - 🔭 I'm currently working on cool projects
 - 🌱 I'm learning **Machine Learning**
 - 👯 I'm looking to collaborate on exciting projects
-- 📩 How to reach me: [LinkedIn](https://www.linkedin.com/in/vadaparthisubhash/) | [LeetCode](https://leetcode.com/KL2300030695/) | [CodeChef](https://www.codechef.com/users/klu2300030695) | [HackerRank](https://www.hackerrank.com/profile/h2300030695) | [GeeksforGeeks](https://www.geeksforgeeks.org/user/user_xsh9ho5yu0u/) | Email: vadaparthisubhash@gmail.com
+- 📩 How to reach me: [LinkedIn](https://www.linkedin.com/in/vadaparthisubhash/) | [LeetCode](https://leetcode.com/KL2300030695/) | [CodeChef](https://www.codechef.com/users/klu2300030695) | [HackerRank](https://www.hackerrank.com/profile/h2300030695) | [GeeksforGeeks](kl2300030695) | Email: vadaparthisubhash@gmail.com
 
 ## GitHub Stats
 <p align="center">
