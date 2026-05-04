@@ -28,13 +28,12 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KL2300030695&theme=default" />
+  <img src="https://streak-stats.demolab.com?user=KL2300030695&theme=tokyonight" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=KL2300030695&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KL2300030695&show_icons=true&theme=tokyonight" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KL2300030695&layout=compact&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KL2300030695&layout=compact&theme=tokyonight" />
 </p>
-
 ## 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,c,git,github" alt="Tech Stack" />
