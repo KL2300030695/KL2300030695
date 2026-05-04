@@ -1,4 +1,12 @@
-<!-- Typing Animation -->
+<!-- User's Custom GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="profile-gif" />
+</p>
+
+<!-- Animated GIF Banner -->
+<p align="center">
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif" width="100%" alt="banner" />
+</p><!-- Typing Animation -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Subhash+Vadaparthi;Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Real+World+Projects;Open+to+Opportunities" />
