@@ -28,9 +28,9 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KL2300030695&theme=default" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=KL2300030695&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KL2300030695&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=KL2300030695&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KL2300030695&show_icons=true&theme=default&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KL2300030695&layout=compact&theme=default&langs_count=6" alt="Top Languages" />
 </p>
 
 ## 🛠 Tech Stack
