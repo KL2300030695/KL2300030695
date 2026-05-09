@@ -43,13 +43,6 @@
 * 🤖 Machine Learning Model (Python)
 * 📈 Detects fraudulent transactions
 * 📊 Data preprocessing + Model evaluation
-
-### 🔹 Warehouse Management System
-
-* ⚙️ Spring Boot CRUD Application
-* 🔗 REST APIs + Database Integration
-* 📦 Product tracking system
-
 ---
 
 ## 🛠 Tech Stack
